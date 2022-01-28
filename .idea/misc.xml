@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/drawable/bigbannerhome.xml" value="0.1125" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/drawable/genrybtm_list.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/drawable/searchicontwo_background.xml" value="0.1125" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/drawable/searchicontwo_foreground.xml" value="0.1125" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/drawable/searchview_background.xml" value="0.1125" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/activity_genere_home.xml" value="0.13" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/activity_genry_details.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/activity_go_pro_home.xml" value="0.1925925925925926" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/activity_notification.xml" value="0.12" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/activity_romance_genry.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/activity_search.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/activity_see_all.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/activity_tvshow_home.xml" value="0.1925925925925926" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/backup_activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/bigbannerhome.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_action.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_all.xml" value="0.12" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_comedy.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_discovery.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_drama.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_genry.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_latest_movies.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_profile.xml" value="0.17777777777777778" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_romance.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_save.xml" value="0.17777777777777778" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_search.xml" value="0.16" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_see_all.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_top_rated.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/fragment_up_coming.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/genrybtns_list.xml" value="0.14537037037037037" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/header_home.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/list_history_discovery.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/list_searchpanel.xml" value="0.14" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/pergenry_view_list.xml" value="0.14537037037037037" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/playingmovienowlayout.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/layout/seealllist.xml" value="0.26556016597510373" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/mipmap-anydpi-v26/searchicontwo.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioWorkingFolder/AndroidStudioProjects/MoviesAppAndroid/app/src/main/res/mipmap-anydpi-v26/searchicontwo_round.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
